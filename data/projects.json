@@ -1,0 +1,29 @@
+[
+    {
+        "title": "ESP32CAM-based Smart Garage Number Plate Recognition System",
+        "year": "2025",
+        "partner": "Afif Syaefudin",
+        "role": "Project Lead",
+        "description": "Developed an automated garage gate system utilizing an ESP32-CAM to capture vehicle license plates. Integrated with an Optical Character Recognition (OCR) system or image processing algorithm to identify registered plates, automatically triggering a servo motor or relay to open the garage door for authorized vehicles while enhancing residential security.",
+        "image": "images/esp32cam.jpeg",
+        "link": "https://github.com/rafakrisnamughni-blip"
+    },
+    {
+        "title": "Raspberry Pi-based Trainerkit Embedded System",
+        "year": "2025",
+        "partner": "Final Project, Polines",
+        "role": "Project Lead",
+        "description": "Designed and developed an integrated embedded system trainer kit based on Raspberry Pi for educational and prototyping purposes. The kit serves as a comprehensive learning platform featuring various sensor interfaces, actuators, and communication modules, allowing students and developers to simulate real-world automation and robotics control workflows efficiently.",
+        "image": "images/trainerkit.jpeg",
+        "link": "https://example.com/assembly-optimization"
+    },
+    {
+        "title": "Smart Lighting System for Energy Efficiency",
+        "year": "2025",
+        "partner": "Friz Salman, Puput",
+        "role": "Project Lead",
+        "description": "Developed an IoT-based Smart Lighting System designed to optimize power consumption in residential or commercial buildings. Integrated motion sensors (PIR) and ambient light sensors (LDR) with a microcontroller to automatically adjust brightness or toggle lights based on human presence and natural daylight levels, achieving significant energy savings.",
+        "image": "images/frizz.jpeg",
+        "link": "https://example.com/assembly-optimization"
+    }
+]

@@ -1,0 +1,17 @@
+[
+   
+    {
+        "university": "SMA Teuku Umar Semarang",
+		"logo": "images/Teuku Umar.jpg",
+        "major": "Mathematics and Natural Sciences",
+        "year": "2019 - 2022",
+        "description": "A reputable senior high school in Semarang, focusing on developing disciplined, innovative, and morally grounded students. During my time in the Mathematics and Natural Sciences (MIPA) major, I built a solid foundation in analytical thinking, basic sciences, and logical problem-solving, which sparked my passion for pursuing electronic engineering."
+    }, 
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "D3 Electronic Engineering",
+        "year": "2023 - 2026",
+        "description": "A prominent state vocational college in Indonesia that focuses on applied technology and hands-on industrial engineering skills. Specializing in Electronic Engineering, I gained comprehensive experience in microcontroller programming, Internet of Things (IoT) architecture, control systems, and electronics troubleshooting through intensive practical workshop and laboratory sessions."
+    }
+]

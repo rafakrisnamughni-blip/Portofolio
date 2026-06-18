@@ -1,0 +1,42 @@
+{
+    "name": "Rafa Krisna Mughni Arsanta - Electronic Engineering",
+    "description": "Fresh graduate in Electronic Engineering at Semarang State Polytechnic with a strong interest in electronic projects, control systems, PLC, and Internet of Things (IoT). Have experience working with electronic circuits, microcontroller programming, and system troubleshooting. Adaptable, detail-oriented, analytical, and able to work both independently and in a team. Highly motivated to continuously learn and develop my skills to improve efficiency and performance in the field of electronic engineering.",
+    "profileImage": "images/fotoprofile.jpg",
+    "email": "rafakrisnamughni@gmail.com",
+    "phone": "+62 878-2168-1917",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/rafa-krisna-mughni-arsanta"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/rafakrisnamughni-blip"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/rafakrisna"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV Rafa New.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+ "skills": {
+    "hardskills": [
+      { "name": "Internet of Things", "icon": "fas fa-wifi", "level": 90 },
+      { "name": "Hardware Design", "icon": "fas fa-desktop", "level": 85 },
+      { "name": "Hardware Programming", "icon": "fas fa-code", "level": 90 },
+      { "name": "Microcontroller Integration", "icon": "fas fa-microchip", "level": 90 },
+      { "name": "PLC & Control Systems", "icon": "fas fa-cogs", "level": 80 }
+    ],
+    "softskills": [
+      { "name": "Project Management", "icon": "fas fa-tasks", "level": 95 },
+      { "name": "Adaptability", "icon": "fas fa-sync-alt", "level": 90 },
+      { "name": "Analytical Thinking", "icon": "fas fa-brain", "level": 90 },
+      { "name": "Problem Solving", "icon": "fas fa-lightbulb", "level": 90 },
+      { "name": "Teamwork", "icon": "fas fa-users", "level": 85 }
+    ]
+  }
+}
